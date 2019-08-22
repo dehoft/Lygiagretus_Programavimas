@@ -1,0 +1,81 @@
+Hip-hop 
+5
+Ali-Miller 1994 1000 
+Bryan-Uzi-Vert 1995 2000 
+Cyr-Pump 1996 3000 
+Daddy-Sean 1997 4000 
+Erl-Scott 1998 5000
+Jazz
+5
+Fert-Jazz 1979 6000
+Gun-Jazz 1980 7000
+Ian-Jazz 1981 8000
+John-Jazz 1982 9000
+Kelly-Jazz 1984 10000
+Country
+5
+Fert-Country 1979 6000
+Gun-Country 1980 7000
+Ian-Country 1981 8000
+John-Country 1982 9000
+Kelly-Country 1984 10000
+Rock
+5
+Fert-Country 1979 6000
+Gun-Country 1980 7000
+Ian-Country 1981 8000
+John-Country 1982 9000
+Kelly-Country 1984 10000
+Folk
+5
+Fert-Country 1979 6000
+Gun-Country 1980 7000
+Ian-Country 1981 8000
+John-Country 1982 9000
+Kelly-Country 1984 10000
+Hip-hop
+9
+1984 5
+1998 5
+1994 5
+1980 1
+1981 1
+1984 1
+1995 1
+2012 1
+1979 5
+Jazz
+7
+1996 5
+1979 7
+1980 1
+1982 4
+1997 5
+1981 3
+1982 5
+Country
+8
+1984 5
+1998 5
+1994 5
+1980 1
+1981 1
+1984 1
+1995 1
+2012 1
+Rock
+6
+1996 5
+1979 9
+1980 1
+1997 5
+1981 3
+1982 5
+Folk
+6
+1996 5
+1979 9
+1980 1
+1997 5
+1981 3
+1982 5
