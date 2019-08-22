@@ -1,0 +1,64 @@
+Pirma 5
+
+Edvinas 1997 9.1
+
+Tomas 1998 8.5
+
+Tadas 1999 9.2
+
+Karolis 1996 5.5
+
+Mykolas 1995 6.8
+
+Antra 9
+
+Gabriele 2002 8.8
+
+Justina 2003 7.4
+Tedas 2001 5.9
+
+Karolukas 2001 6.3
+Edvinas 2003 9.9
+Lauris 2002 6.8
+
+Solveiga 2001 7.8
+
+Samanta 2001 7.4
+
+Emilis 2002 7.1
+
+Trecia 6
+
+Auris 1994 6.8
+
+Martis 1995 10.0
+Žygis 1994 8.7
+
+Domas 1996 9.8
+
+Arvis 1995 7.5
+
+Saule 1994 9.0
+
+Ketvirta 5
+
+Saulius 1992 8.7
+
+Augis 1993 5.8
+Gabriele 1994 5.2
+
+Tadas 1994 5.1
+Tomas 1992 9.8
+
+Penkta 6
+
+Martynas 1990 8.5
+
+Eimantas 1991 8.1
+
+Imantas 1989 5.9
+Kamile 1991 6.8
+Silvija 1990 8.8
+
+Simas 1992 9.3
+

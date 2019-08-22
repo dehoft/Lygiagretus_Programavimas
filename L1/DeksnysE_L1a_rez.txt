@@ -1,0 +1,75 @@
+*** Pirma ***
+   Vardas Gimimo Metai  Stojimo balas
+1) Edvinas   1997           9.1    
+2) Tomas     1998           8.5    
+3) Tadas     1999           9.2    
+4) Karolis   1996           5.5    
+5) Mykolas   1995           6.8    
+*** Antra ***
+   Vardas Gimimo Metai  Stojimo balas
+1) Gabriele  2002           8.8    
+2) Justina   2003           7.4    
+3) Tedas     2001           5.9    
+4) Karolukas 2001           6.3    
+5) Edvinas   2003           9.9    
+6) Lauris    2002           6.8    
+7) Solveiga  2001           7.8    
+8) Samanta   2001           7.4    
+9) Emilis    2002           7.1    
+*** Trecia ***
+   Vardas Gimimo Metai  Stojimo balas
+1) Auris     1994           6.8    
+2) Martis    1995           10     
+3) Žygis     1994           8.7    
+4) Domas     1996           9.8    
+5) Arvis     1995           7.5    
+6) Saule     1994           9      
+*** Ketvirta ***
+   Vardas Gimimo Metai  Stojimo balas
+1) Saulius   1992           8.7    
+2) Augis     1993           5.8    
+3) Gabriele  1994           5.2    
+4) Tadas     1994           5.1    
+5) Tomas     1992           9.8    
+*** Penkta ***
+   Vardas Gimimo Metai  Stojimo balas
+1) Martynas  1990           8.5    
+2) Eimantas  1991           8.1    
+3) Imantas   1989           5.9    
+4) Kamile    1991           6.8    
+5) Silvija   1990           8.8    
+6) Simas     1992           9.3    
+----------------------------------------
+gija_1 1 Edvinas             1997 9.1 
+gija_2 1 Gabriele            2002 8.8 
+gija_3 1 Auris               1994 6.8 
+gija_4 1 Saulius             1992 8.7 
+gija_1 2 Tomas               1998 8.5 
+gija_2 2 Justina             2003 7.4 
+gija_5 1 Martynas            1990 8.5 
+gija_3 2 Martis              1995 10  
+gija_4 2 Augis               1993 5.8 
+gija_1 3 Tadas               1999 9.2 
+gija_3 3 Žygis               1994 8.7 
+gija_2 3 Tedas               2001 5.9 
+gija_1 4 Karolis             1996 5.5 
+gija_4 3 Gabriele            1994 5.2 
+gija_2 4 Karolukas           2001 6.3 
+gija_5 2 Eimantas            1991 8.1 
+gija_3 4 Domas               1996 9.8 
+gija_5 3 Imantas             1989 5.9 
+gija_4 4 Tadas               1994 5.1 
+gija_2 5 Edvinas             2003 9.9 
+gija_1 5 Mykolas             1995 6.8 
+gija_5 4 Kamile              1991 6.8 
+gija_3 5 Arvis               1995 7.5 
+gija_4 5 Tomas               1992 9.8 
+gija_5 5 Silvija             1990 8.8 
+gija_3 6 Saule               1994 9   
+gija_2 6 Lauris              2002 6.8 
+gija_5 6 Simas               1992 9.3 
+gija_2 7 Solveiga            2001 7.8 
+gija_2 8 Samanta             2001 7.4 
+gija_2 9 Emilis              2002 7.1 
+
+Pabaiga

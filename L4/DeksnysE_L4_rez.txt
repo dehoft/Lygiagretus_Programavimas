@@ -1,0 +1,133 @@
+Duomenu rinkinys 1
++---+----+-------------------+--------------------+------------------+--------+
+|Nr.| ID | Modelis           | Savininkas         | Pagaminimo metai | Svoris |
++---+----+-------------------+--------------------+------------------+--------+
+|  1|   1|Bravo              |Tomas               |1998              |1250    |
+|  2|   2|Panda              |Edvinas             |2000              |1100    |
+|  3|   3|Uno                |Tadas               |2003              |1300    |
+|  4|   4|Punto              |Gabriele            |2005              |950     |
+|  5|   6|Galaxy             |Toma                |2005              |860     |
+|  6|   7|Galaxy1            |Urte                |2005              |1350    |
+|  7|   8|Ka                 |Arvis               |2008              |1325    |
+|  8|   9|Mondeo             |Lauris              |2008              |1254    |
+|  9|  10|Mondeo1            |Augis               |2008              |1245    |
+| 10|   5|Multipla           |Ariana              |2009              |687     |
+| 11|  11|Escort             |Violeta             |2009              |1100    |
+| 12|  13|Edvinas            |Edvinas             |2015              |1250    |
+| 13|  12|Paskutine          |Deima               |2016              |1650    |
++---+----+-------------------+--------------------+------------------+--------+
+
+Duomenu rinkinys 2
++---+----+-------------------+--------------------+------------------+--------+
+|Nr.| ID | Modelis           | Savininkas         | Pagaminimo metai | Svoris |
++---+----+-------------------+--------------------+------------------+--------+
+|  1|  11|Camaro             |Peadar              |1973              |1045    |
+|  2|   4|Galant             |Muffin              |1987              |1445    |
+|  3|   3|Achieva            |Thaddus             |1994              |1273    |
+|  4|   5|Ram                |Pedro               |1998              |857     |
+|  5|   8|Intrigue           |Nevins              |1999              |1258    |
+|  6|   1|Millenia           |Giorgi              |2002              |1281    |
+|  7|   2|Avalanche          |Palm                |2003              |1153    |
+|  8|   9|Cavalier           |Sanderson           |2004              |1112    |
+|  9|   7|SuperDuty          |Giffie              |2007              |886     |
+| 10|   6|Meith              |Symon               |2008              |951     |
+| 11|  10|Civic              |Montague            |2011              |1135    |
+| 12|  12|Italia             |Leupold             |2011              |1158    |
+| 13|  13|Edvinas            |Edvinas             |2015              |1250    |
++---+----+-------------------+--------------------+------------------+--------+
+
+Duomenu rinkinys 3
++---+----+-------------------+--------------------+------------------+--------+
+|Nr.| ID | Modelis           | Savininkas         | Pagaminimo metai | Svoris |
++---+----+-------------------+--------------------+------------------+--------+
+|  1|   8|FifthAve           |Allistir            |1993              |939     |
+|  2|   1|Cutlass            |Aluin               |1997              |1061    |
+|  3|   4|Silverado          |Romain              |2001              |1308    |
+|  4|   6|Express            |Nappy               |2001              |1076    |
+|  5|   9|Swift              |Shaine              |2001              |1115    |
+|  6|   5|EClass             |Ashby               |2003              |1268    |
+|  7|   7|NinneThree         |Burke               |2004              |1151    |
+|  8|   3|Freestyle          |Giffer              |2005              |1220    |
+|  9|  11|Discovery          |Pablo               |2007              |881     |
+| 10|  12|Fusion             |Cliff               |2008              |1261    |
+| 11|   2|Charger            |Natal               |2010              |1313    |
+| 12|  10|Sequoia            |Maxim               |2011              |1367    |
+| 13|  13|Edvinas            |Edvinas             |2015              |1250    |
++---+----+-------------------+--------------------+------------------+--------+
+
+Duomenu rinkinys 4
++---+----+-------------------+--------------------+------------------+--------+
+|Nr.| ID | Modelis           | Savininkas         | Pagaminimo metai | Svoris |
++---+----+-------------------+--------------------+------------------+--------+
+|  1|   5|Swift              |Shaine              |2001              |1115    |
+|  2|  11|Silverado          |Romain              |2001              |1308    |
+|  3|  12|EClass             |Ashby               |2003              |1268    |
+|  4|  10|Freestyle          |Giffer              |2005              |1220    |
+|  5|   7|Discovery          |Pablo               |2007              |881     |
+|  6|   1|Mondeo             |Lauris              |2008              |1254    |
+|  7|   2|Mondeo1            |Augis               |2008              |1245    |
+|  8|   8|Fusion             |Cliff               |2008              |1261    |
+|  9|   3|Escort             |Violeta             |2009              |1100    |
+| 10|   9|Charger            |Natal               |2010              |1313    |
+| 11|   6|Sequoia            |Maxim               |2011              |1367    |
+| 12|  13|Edvinas            |Edvinas             |2015              |1250    |
+| 13|   4|Paskutine          |Deima               |2016              |1650    |
++---+----+-------------------+--------------------+------------------+--------+
+
+Duomenu rinkinys 5
++---+----+-------------------+--------------------+------------------+--------+
+|Nr.| ID | Modelis           | Savininkas         | Pagaminimo metai | Svoris |
++---+----+-------------------+--------------------+------------------+--------+
+|  1|   5|Ram                |Pedro               |1998              |857     |
+|  2|   8|Intrigue           |Nevins              |1999              |1258    |
+|  3|   2|Swift              |Shaine              |2001              |1115    |
+|  4|   9|Silverado          |Romain              |2001              |1308    |
+|  5|  11|Express            |Nappy               |2001              |1076    |
+|  6|  10|EClass             |Ashby               |2003              |1268    |
+|  7|  12|NinneThree         |Burke               |2004              |1151    |
+|  8|   4|Discovery          |Pablo               |2007              |881     |
+|  9|   7|SuperDuty          |Giffie              |2007              |886     |
+| 10|   6|Meith              |Symon               |2008              |951     |
+| 11|   3|Sequoia            |Maxim               |2011              |1367    |
+| 12|  13|Edvinas            |Edvinas             |2015              |1250    |
+| 13|   1|Paskutine          |Deima               |2016              |1650    |
++---+----+-------------------+--------------------+------------------+--------+
+
+Duomenu rinkinys 6
++---+----+-------------------+--------------------+------------------+--------+
+|Nr.| ID | Modelis           | Savininkas         | Pagaminimo metai | Svoris |
++---+----+-------------------+--------------------+------------------+--------+
+|  1|   1|Silverado          |Romain              |2001              |1308    |
+|  2|   3|Express            |Nappy               |2001              |1076    |
+|  3|   6|Swift              |Shaine              |2001              |1115    |
+|  4|   9|Swift              |Shaine              |2001              |1115    |
+|  5|   2|EClass             |Ashby               |2003              |1268    |
+|  6|   4|NinneThree         |Burke               |2004              |1151    |
+|  7|   8|Discovery          |Pablo               |2007              |881     |
+|  8|  11|Discovery          |Pablo               |2007              |881     |
+|  9|  12|Fusion             |Cliff               |2008              |1261    |
+| 10|   7|Sequoia            |Maxim               |2011              |1367    |
+| 11|  10|Sequoia            |Maxim               |2011              |1367    |
+| 12|  13|Edvinas            |Edvinas             |2015              |1250    |
+| 13|   5|Paskutine          |Deima               |2016              |1650    |
++---+----+-------------------+--------------------+------------------+--------+
+
+Resultatas
++---+----+---------------------------------------------------------+-----------------------------------------------------------------+------------------+--------+
+|Nr.| ID | Modelis                                                 | Savininkas                                                      | Pagaminimo metai | Svoris |
++---+----+---------------------------------------------------------+-----------------------------------------------------------------+------------------+--------+
+|  1|  31|BravoCamaroFifthAveSwiftRamSilverado                     |TomasPeadarAllistirShainePedroRomain                             |11964             |6514    |
+|  2|  29|PandaGalantCutlassSilveradoIntrigueExpress               |EdvinasMuffinAluinRomainNevinsNappy                              |11985             |7248    |
+|  3|  30|UnoAchievaSilveradoEClassSwiftSwift                      |TadasThaddusRomainAshbyShaineShaine                              |12003             |7379    |
+|  4|  43|PuntoRamExpressFreestyleSilveradoSwift                   |GabrielePedroNappyGifferRomainShaine                             |12011             |6526    |
+|  5|  43|GalaxyIntrigueSwiftDiscoveryExpressEClass                |TomaNevinsShainePabloNappyAshby                                  |12016             |6458    |
+|  6|  28|Galaxy1MilleniaEClassMondeoEClassNinneThree              |UrteGiorgiAshbyLaurisAshbyBurke                                  |12025             |7572    |
+|  7|  39|KaAvalancheNinneThreeMondeo1NinneThreeDiscovery          |ArvisPalmBurkeAugisBurkePablo                                    |12034             |6906    |
+|  8|  44|MondeoCavalierFreestyleFusionDiscoveryDiscovery          |LaurisSandersonGifferCliffPabloPablo                             |12039             |6609    |
+|  9|  50|Mondeo1SuperDutyDiscoveryEscortSuperDutyFusion           |AugisGiffiePabloVioletaGiffieCliff                               |12046             |6259    |
+| 10|  45|MultiplaMeithFusionChargerMeithSequoia                   |ArianaSymonCliffNatalSymonMaxim                                  |12054             |6530    |
+| 11|  42|EscortCivicChargerSequoiaSequoiaSequoia                  |VioletaMontagueNatalMaximMaximMaxim                              |12063             |7649    |
+| 12|  74|EdvinasItaliaSequoiaEdvinasEdvinasEdvinas                |EdvinasLeupoldMaximEdvinasEdvinasEdvinas                         |12082             |7525    |
+| 13|  48|PaskutineEdvinasEdvinasPaskutinePaskutinePaskutine       |DeimaEdvinasEdvinasDeimaDeimaDeima                               |12094             |9100    |
++---+----+---------------------------------------------------------+-----------------------------------------------------------------+------------------+--------+
+
